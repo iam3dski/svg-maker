@@ -61,6 +61,7 @@
   
   ## Usage
   
+  [svg-maker.webm](https://github.com/iam3dski/svg-maker/assets/123909952/7fc92524-67be-408d-a708-3c135407010f)
 
   ## Tests 
   * Ensure you have installed the application.
