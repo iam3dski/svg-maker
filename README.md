@@ -57,7 +57,7 @@
   ```md
     node index.js OR npm start
   ```
-  > Answer the prompts to generate an SVG file.
+  Answer the prompts to generate an SVG file.
   
   ## Usage
   
@@ -69,6 +69,7 @@
     npm test
   ```
   * Expected output.
+
     ![Test Result](./assets/images/expected-result.png)  
 
   ## Generated File Examples
